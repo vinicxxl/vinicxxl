@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Vinicius Cardoso
 
-- 👨‍💻 Desenvolvedor FRONT-END
-- 🌱 Estudando JavaScript
+- 👨🏻‍💻 Desenvolvedor FRONT-END
+- 👨🏻‍🎓 Formado em técnico em informática 
+- 🧗🏻 Cursando Análise e Desenvolvimento de Sistemas
 
 <div>
   <a href="https://github.com/vinicxxl">
