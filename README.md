@@ -1,6 +1,7 @@
 ## Olá! Eu sou Vinicius Cardoso
 
 - 👨🏻‍💻 Desenvolvedor FRONT-END
+- 💪 Estagiário em BI
 - 👨🏻‍🎓 Formado em técnico em informática 
 - 🧗🏻 Cursando Análise e Desenvolvimento de Sistemas
 
