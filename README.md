@@ -37,7 +37,7 @@
 
   ## Status GitHub ✨
   <div>
-    <a href="https://github.com/vinicxxl">
+    <a href="https://github.com/devinicardoso">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicxxl&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicxxl&layout=compact&langs_count=7&theme=swift"/>
 </div>
