@@ -2,7 +2,7 @@
 
 # Hello! I'm Vinicius Cardoso ✨
   
-     - 👨🏻‍💻 Front-end Developer
+     - 👨🏻‍💻 Full Stack Developer
      - 👨🏻‍🎓 Graduated in computer technician 
      - 🧗🏻 Studying Software Analysis and Development
      
