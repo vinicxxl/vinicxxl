@@ -2,12 +2,12 @@
 
 # Hello! I'm Vinicius Cardoso ✨
   
-     - 👨🏻‍💻 Full Stack Developer
+     - 👨🏻‍💻 Front-End Developer
      - 👨🏻‍🎓 Graduated in computer technician 
      - 🧗🏻 Studying Software Analysis and Development
      
    ### 🧠 Skills
-   - HTML, CSS, javaScript, Bootstrap, Bulma, PHP, MySql
+   - HTML, CSS, javaScript, ReactJS, NodeJS
    
    ###  🔧 Tools
    
