@@ -7,7 +7,7 @@
      - 🧗🏻 Studying Software Analysis and Development
      
    ### 🧠 Skills
-   - HTML, CSS, javaScript, ReactJS, AngularJs
+   - HTML, CSS, javaScript, ReactJS, AngularJS
    
    ###  🔧 Tools
    
@@ -16,7 +16,7 @@
    ## Contact
   <div>
     <a href="https://instagram.com/c4rdos0_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-2d2926?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:contato@vinic.dev"><img src="https://img.shields.io/badge/-mail-2d2926?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "mailto:contato@viniciuscardoso.dev"><img src="https://img.shields.io/badge/-mail-2d2926?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/PWrh3vQs9K" target="_blank"><img src="https://img.shields.io/badge/Discord-2d2926?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/vinicdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-2d2926?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>  
