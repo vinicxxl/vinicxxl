@@ -7,7 +7,7 @@
      - 🧗🏻 Studying Software Analysis and Development
      
    ### 🧠 Skills
-   - HTML, CSS, javaScript, ReactJS, AngularJS
+   - HTML, CSS, javaScript, ReactJS, AngularJS, NodeJS
    
    ###  🔧 Tools
    
