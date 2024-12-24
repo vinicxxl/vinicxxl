@@ -3,11 +3,10 @@
 # Hello! I'm Vinicius Cardoso ✨
   
      - 👨🏻‍💻 Front-End Developer
-     - 👨🏻‍🎓 Graduated in computer technician 
-     - 🧗🏻 Studying Software Analysis and Development
+     - 👨🏻‍🎓 Graduated in computer technician and Software Analysis and Development
      
    ### 🧠 Skills
-   - HTML, CSS, javaScript, ReactJS, AngularJS, NodeJS
+   - JavaScript, TypeScript, ReactJS, AngularJS, NodeJS, ASP.NET, Flutter.
    
    ###  🔧 Tools
    
